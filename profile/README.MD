@@ -1,5 +1,3 @@
-## ABOUT 
-
 UniversalDot Foundation is a decentralized organization that is focused on creating applications for the decentralized internet.
 
 We build open-source code for the community. We are using the following [technology stack](https://stackshare.io/universaldot/universalme). 
